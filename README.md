@@ -30,6 +30,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/user/i59vhe9ryuluce0pcq61vopgd)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&cover_image=false&theme=default&show_offline=false&background_color=080808&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&redirect=true)
 ---

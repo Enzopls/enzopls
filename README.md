@@ -27,3 +27,9 @@
 ### 🌐 Suivez-moi
 - [LinkedIn](https://www.linkedin.com/in/votre_nom)
 - [Twitter](https://twitter.com/votre_nom)
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/i59vhe9ryuluce0pcq61vopgd)
+<br/>
+---

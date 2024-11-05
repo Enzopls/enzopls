@@ -1,19 +1,17 @@
-<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg" style="border-radius: 20px;">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0; height: 100%;">
       <style>
         @keyframes gradient {
           0% { background-position: 0% 50%; }
           50% { background-position: 100% 50%; }
           100% { background-position: 0% 50%; }
         }
-
         @keyframes shine {
           0% { color: #ffffff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.7); }
           50% { color: #00c6ff; text-shadow: 0 0 20px rgba(0, 198, 255, 0.8); }
           100% { color: #ffffff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.7); }
         }
-
         .container {
           background: linear-gradient(135deg, #2b2b2b, #111111, #333333);
           background-size: 200% 200%;
@@ -28,22 +26,19 @@
           font-family: 'Roboto', sans-serif;
           font-weight: 700;
           text-align: center;
-          border-radius: 20px 20px 0 0; /* Coins arrondis en haut */
+          border-radius: 20px 20px 0 0;
         }
-
         .title {
           font-size: 48px;
           margin: 0;
           animation: shine 3s ease-in-out infinite alternate;
         }
-
         .subtitle {
           font-size: 24px;
           color: #bbbbbb;
-          margin-top: 10px;
+          margin: 10px 0 0 0;
         }
       </style>
-
       <div class="container">
         <h1 class="title">Hello, I am Enzo</h1>
         <p class="subtitle">Student and learner</p>

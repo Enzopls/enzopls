@@ -1,5 +1,5 @@
 <img src="https://github.com/preakhy/preakhy/blob/main/asset/animated_wave.svg" alt="Animated SVG" width="900" height="120">
-<img src="https://github.com/preakhy/preakhy/blob/main/welcome.svg" alt="Animated SVG" width="900" height="120">
+<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG" width="900" height="120">
 ## 👋 Hello, I am Enzo!
 
 ### 🎓 About me

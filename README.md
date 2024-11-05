@@ -1,4 +1,9 @@
-## 👋 Hello, je suis I am Enzo!
+
+
+
+
+
+## 👋 Hello, I am Enzo!
 
 ### 🎓 About me
 - 📖 I'm a network informatic student
@@ -8,10 +13,16 @@
 - 📫 How to contact me : [Email](mailto:enzo.plesi49@gmail.com)
 - ⚡ I love informatic/reverse ingeenering and i'm very curious
 
+<div align="center">
+  
 ### 🛠️ Technology and tools
-- **Langages :** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks :** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- **Outils :** ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+| **Langauges** | **OS** | **tools** |
+|--------------|----------------|------------|
+| <table><tr><td>[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)</td><td>[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</td></tr><tr><td>[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)</td><td>[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)</td></tr></table> | <table><tr><td>[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)</td><td>[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)</td></tr><tr><td>[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)</td><td>[![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org)</td></tr></table> | <table><tr><td>[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)</td><td>[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)</td></tr><tr><td>[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/products/xd.html)</td><td>[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)</td></tr></table> |
+
+</div>
+
 
 ### 📈 Statistiques GitHub
 ![Les statistiques GitHub de [preakhy]](https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical)

@@ -1,23 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="120" viewBox="0 0 854 120">
-  <style>
-    .text {
-      font-size: 70px;
-      font-weight: 700;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    }
+<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        /* Animation de dégradé pour l'arrière-plan */
+        @keyframes gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
 
-    .desc {
-      font-size: 20px;
-      font-weight: 500;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    }
-  </style>
-  <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
-    <path d="" fill="#D9BED1" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z"></animate>
-    </path>
-    <path d="" fill="#D9BED1" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z"></animate>
-    </path>
-  </g>
+        /* Animation pour l'effet de brillance sur le texte */
+        @keyframes shine {
+          0% { color: #ffffff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.7); }
+          50% { color: #00c6ff; text-shadow: 0 0 20px rgba(0, 198, 255, 0.8); }
+          100% { color: #ffffff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.7); }
+        }
+
+        /* Styles de base pour la zone du texte */
+        .container {
+          background: linear-gradient(135deg, #2b2b2b, #111111, #333333);
+          background-size: 200% 200%;
+          animation: gradient 10s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          color: #ffffff;
+          font-family: 'Roboto', sans-serif;
+          font-weight: 700;
+          text-align: center;
+        }
+
+        /* Style principal du texte avec animation */
+        .title {
+          font-size: 48px;
+          margin: 0;
+          animation: shine 3s ease-in-out infinite alternate;
+        }
+
+        /* Sous-titre statique */
+        .subtitle {
+          font-size: 24px;
+          color: #bbbbbb;
+          margin-top: 10px;
+        }
+      </style>
+
+      <div class="container">
+        <h1 class="title">Hello, I am Enzo</h1>
+        <p class="subtitle">Student and learner</p>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

@@ -14,8 +14,12 @@
 
 </div>
 
-## My current device :
+<br>
 
+## My current device :
+<img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/IOS.svg" alt="Animated SVG" width="100" height="150">
+
+<br>
 
 ## 📈 Statistiques GitHub
 

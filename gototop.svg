@@ -1,62 +1,34 @@
-<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; height: 100%;">
       <style>
-        .button {
-          width: 50px;
-          height: 50px;
-          border-radius: 50%;
-          background-color: rgb(20, 20, 20);
-          border: none;
-          font-weight: 600;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          box-shadow: 0px 0px 0px 4px rgba(180, 160, 255, 0.253);
-          cursor: pointer;
-          transition-duration: 0.3s;
-          overflow: hidden;
-          position: relative;
+        .back-to-top {
+          display: inline-block;
+          padding: 12px 24px;
+          background-color: #007acc;
+          color: #ffffff;
+          font-family: Arial, sans-serif;
+          font-size: 18px;
+          font-weight: bold;
+          text-decoration: none;
+          border-radius: 8px;
+          transition: background-color 0.3s ease, transform 0.3s ease;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
-        .svgIcon {
-          width: 12px;
-          transition-duration: 0.3s;
+
+        .back-to-top:hover {
+          background-color: #005f99;
+          transform: translateY(-3px);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
         }
-        .svgIcon path {
-          fill: white;
-        }
-        .button:hover {
-          width: 140px;
-          border-radius: 50px;
-          transition-duration: 0.3s;
-          background-color: rgb(181, 160, 255);
-          align-items: center;
-        }
-        .button:hover .svgIcon {
-          transition-duration: 0.3s;
-          transform: translateY(-200%);
-        }
-        .button::before {
-          position: absolute;
-          bottom: -20px;
-          content: "Back to Top";
-          color: white;
-          font-size: 0px;
-        }
-        .button:hover::before {
-          font-size: 13px;
-          opacity: 1;
-          bottom: unset;
-          transition-duration: 0.3s;
+
+        .back-to-top:active {
+          transform: translateY(-1px);
+          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
         }
       </style>
-      <button class="button">
-        <svg class="svgIcon" viewBox="0 0 384 512">
-          <path
-            d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"
-          ></path>
-        </svg>
-      </button>
+
+      <a href="#top" class="back-to-top">⬆️ Back to Top</a>
     </div>
   </foreignObject>
 </svg>

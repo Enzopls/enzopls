@@ -17,6 +17,9 @@
 
 
 ## 📈 Statistiques GitHub
+
+[![Preakhy profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/preakhy)
+
 ![Les statistiques GitHub de [preakhy]](https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical)
 
 ![Les langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=preakhy&layout=compact&theme=radical)

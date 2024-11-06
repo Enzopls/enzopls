@@ -33,6 +33,6 @@
 ---
 <div align="center">
   
-[![⬆️ Back to Top](https://github.com/preakhy/preakhy/blob/main/gototop.svg)](#top)
+[![⬆️ Back to Top](https://github.com/preakhy/preakhy/blob/main/asset/gototop.svg)](#top)
 
 </div>

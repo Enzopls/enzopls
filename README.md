@@ -1,4 +1,4 @@
-<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG" width="900" height="120">
+<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG" width="1000" height="150">
 
 ### 🎓 About me
 - 📖 I'm a network informatic student

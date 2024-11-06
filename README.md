@@ -18,6 +18,7 @@
 
 ## My current device :
 <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/IOS.svg" alt="Animated SVG" width="100" height="150">
+<img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/meta.svg" alt="Animated SVG" width="100" height="150">
 
 <br>
 

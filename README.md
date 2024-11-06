@@ -3,14 +3,17 @@
 
 
 <div align="center">
-  
-## 🛠️ Technology and tools that I use
-  
+
+## 🛠️ Technology and tools that I use 🛠️
+
+<br>
+
 | **Langauges** | **OS** | **tools** |
 |--------------|----------------|------------|
 | <table><tr><td>[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)</td><td>[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</td></tr><tr><td>[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)</td><td>[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)</td></tr></table> | <table><tr><td>[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)</td><td>[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)</td></tr><tr><td>[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)</td><td>[![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org)</td></tr></table> | <table><tr><td>[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)</td><td>[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)</td></tr><tr><td>[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/products/xd.html)</td><td>[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)</td></tr></table> |
-  
+
 </div>
+
 
 
 ## 📈 Statistiques GitHub

@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🛠️ Technology and tools
+## 🛠️ Technology and tools that I use
   
 | **Langauges** | **OS** | **tools** |
 |--------------|----------------|------------|
@@ -13,7 +13,7 @@
 </div>
 
 
-### 📈 Statistiques GitHub
+## 📈 Statistiques GitHub
 ![Les statistiques GitHub de [preakhy]](https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical)
 
 ![Les langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=preakhy&layout=compact&theme=radical)

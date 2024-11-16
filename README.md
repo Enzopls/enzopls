@@ -22,7 +22,7 @@
 
 <br>
   
-| **Logo** | **Device** | **OS** |
+| **Brand** | **Device** | **OS** |
 |----------|--------------|--------|
 | <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/raspberrypi.svg" alt="Raspberry Pi" width="100" height="150"> | Raspberry Pi 3B | Raspberry Pi OS |
 | <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/Samsung_Galaxy_logo.svg" alt="Samsung Galaxy" width="100" height="150"> | Samsung Galaxy A12 | Android 12 (rooté) |

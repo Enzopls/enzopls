@@ -38,11 +38,22 @@
 
 ## 📈 Statistiques GitHub
 
+<br>
+
+<div align="center">
+
 [![Preakhy profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/preakhy)
 
-![Les statistiques GitHub de [preakhy]](https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical)
+</div>
 
-![Les langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=preakhy&layout=compact&theme=radical)
+<br>
+
+<div style="display: flex; justify-content: space-between; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preakhy&layout=compact&theme=radical" alt="Les langues les plus utilisées" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical" alt="Les statistiques GitHub de [preakhy]" style="width: 49%;">
+</div>
+
+<br>
 
 ### 🏆 Achievements
 - **Projets populaires :**

@@ -1,4 +1,4 @@
-<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG"
+<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG">
 <img src="https://github.com/preakhy/preakhy/blob/main/asset/aboutme.svg" alt="Animated SVG" width="1000" height="150">
 
 

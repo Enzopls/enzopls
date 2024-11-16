@@ -55,18 +55,18 @@
 
 <br>
 
-### 🏆 Achievements
-- **Projets populaires :**
-  - [Nom du projet](https://github.com/votre_nom/projet) : Une brève description de ce projet incroyable.
-  - [Autre projet](https://github.com/votre_nom/other_project) : Une autre brève description de ce projet innovant.
+## Now Playing 🎧
 
-### 🌐 Suivez-moi
-- [LinkedIn](https://www.linkedin.com/in/votre_nom)
-- [Twitter](https://twitter.com/votre_nom)
+<br>
 
-### Now Playing 🎧
-
+<div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&cover_image=false&theme=default&show_offline=false&background_color=080808&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&redirect=true)
+
+</div>
+
+<br>
+
 ---
 <div align="center">
   

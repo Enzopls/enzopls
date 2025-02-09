@@ -3,9 +3,8 @@
 ### Table of Contents
 
 1. [🎓 About Me](#-about-me)
-3. [Skills](#skills)
-   - [Skills](#skills-section)
-   - [🛠️ Technology and tools that I use](#technology-and-tools)
+2. [Skills](#-skills)
+   [🛠️ Technology and tools that I use](#-technology-and-tools)
 4. [Current Devices](#current-devices)
    - [My current device](#my-current-device)
 5. [GitHub Stats](#github-stats)
@@ -34,7 +33,7 @@
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **Skills**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>

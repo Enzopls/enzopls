@@ -4,7 +4,7 @@
 
 1. [🎓 About Me](#-about-me)
 2. [Skills](#-skills)
-   [🛠️ Technology and tools that I use](#-technology-and-tools)
+3. [🛠️ Technology and tools that I use](#%EF%B8%8F-technology-and-tools-that-i-use-%EF%B8%8F)
 4. [Current Devices](#current-devices)
    - [My current device](#my-current-device)
 5. [GitHub Stats](#github-stats)

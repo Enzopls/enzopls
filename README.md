@@ -57,7 +57,9 @@
 
 <br>
 
-## <img src="" width="35">&nbsp;***Github Stats***
+<div align="center">
+
+## <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
 
 <br>
 

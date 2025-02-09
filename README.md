@@ -11,6 +11,7 @@
   <li style="margin-bottom: 30px;">🌱 I'm learning programming languages and tools like JavaScript, HTML, CSS, and Python</li>
   <li style="margin-bottom: 30px;">👯 I'm open to collaboration on interesting projects</li>
   <li style="margin-bottom: 30px;">⚡ I love informatics, reverse engineering, and am always curious!</li>
+  <li style="margin-bottom: 30px;">🆓 I use as many open source tools as possible</li>
 </ul>
 
   </div>

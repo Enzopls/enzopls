@@ -1,6 +1,20 @@
 <img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG">
-<img src="https://github.com/preakhy/preakhy/blob/main/asset/aboutme.svg" alt="Animated SVG">
 
+<div style="width: 100%; display: flex; justify-content: center; font-family: Arial, sans-serif; padding: 20px; color: #ffffff;">
+  <div style="max-width: 800px; text-align: left;">
+
+<h2 style="color: #ffffff; font-size: 48px; margin: 0 0 40px; font-weight: bold; text-align: center;">🎓 About Me</h2>
+
+<ul style="padding-left: 40px; list-style-type: disc; font-size: 36px; color: #ffffff; line-height: 1.5;">
+  <li style="margin-bottom: 30px;">📖 I'm a network informatics student</li>
+  <li style="margin-bottom: 30px;">🔭 I'm currently working on : some network web tools, Python tools, and scripts for Windows</li>
+  <li style="margin-bottom: 30px;">🌱 I'm learning programming languages and tools like JavaScript, HTML, CSS, and Python</li>
+  <li style="margin-bottom: 30px;">👯 I'm open to collaboration on interesting projects</li>
+  <li style="margin-bottom: 30px;">⚡ I love informatics, reverse engineering, and am always curious!</li>
+</ul>
+
+  </div>
+</div>
 
 <div align="center">
 

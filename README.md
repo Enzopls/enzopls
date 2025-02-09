@@ -57,7 +57,7 @@
 
 <br>
 
-## 📈 Statistiques GitHub
+## <img src="" width="35">&nbsp;***Github Stats***
 
 <br>
 

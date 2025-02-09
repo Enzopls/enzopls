@@ -1,5 +1,21 @@
 <img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG">
 
+### Table of Contents
+
+1. [Introduction](#introduction)
+   - [Welcome](#welcome)
+2. [About Me](#about-me)
+   - [🎓 About Me](#about-me-section)
+3. [Skills](#skills)
+   - [Skills](#skills-section)
+   - [🛠️ Technology and tools that I use](#technology-and-tools)
+4. [Current Devices](#current-devices)
+   - [My current device](#my-current-device)
+5. [GitHub Stats](#github-stats)
+   - [Github Stats](#github-stats-section)
+6. [Now Playing](#now-playing)
+   - [Now Playing 🎧](#now-playing-section)
+
 <div style="width: 100%; display: flex; justify-content: center; font-family: Arial, sans-serif; padding: 20px; color: #ffffff;">
   <div style="max-width: 800px; text-align: left;">
 

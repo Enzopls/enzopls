@@ -10,8 +10,8 @@
     </linearGradient>
   </defs>
   <style>
-    .header { fill: url(#grad1); font-size: 45px; font-family: Arial, sans-serif; opacity: 0; }
-    .subheader { fill: url(#grad2); font-size: 35px; font-family: Arial, sans-serif; opacity: 0; }
+    .header { fill: url(#grad1); font-size: 45px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
+    .subheader { fill: url(#grad2); font-size: 35px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
     .slide-in {
       animation: slideIn 3s ease-in-out forwards;
     }
@@ -24,6 +24,6 @@
       to { transform: translateX(0); opacity: 1; }
     }
   </style>
-  <text x="50" y="120" class="subheader slide-in">Learner and Beginner</text>
-  <text x="50" y="60" class="header slide-in-late">Hello, I'm Enzo</text>
+  <text x="50%" y="120" class="subheader slide-in">Learner and Beginner</text>
+  <text x="50%" y="60" class="header slide-in-late">Hello, I'm Enzo</text>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img src="https://github.com/preakhy/preakhy/blob/main/asset/svgviewer-output.svg" alt="Animated SVG">
+   <img src="https://github.com/preakhy/preakhy/blob/main/asset/enzo.svg" alt="Animated SVG">
 
 </div>
 

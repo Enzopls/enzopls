@@ -1,4 +1,8 @@
-<img src="https://github.com/preakhy/preakhy/blob/main/asset/welcome.svg" alt="Animated SVG">
+<div align="center">
+   
+   <img src="https://github.com/preakhy/preakhy/blob/main/asset/svgviewer-output.svg" alt="Animated SVG">
+
+</div>
 
 ### Table of Contents
 

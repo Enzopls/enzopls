@@ -15,6 +15,8 @@
    - [Github Stats](#github-stats-section)
 6. [Now Playing](#now-playing)
    - [Now Playing 🎧](#now-playing-section)
+  
+<br>
 
 <div style="width: 100%; display: flex; justify-content: center; font-family: Arial, sans-serif; padding: 20px; color: #ffffff;">
   <div style="max-width: 800px; text-align: left;">

@@ -84,10 +84,39 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preakhy&layout=compact&theme=radical" alt="Les langues les plus utilisées" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=preakhy&show_icons=true&theme=radical" alt="Les statistiques GitHub de [preakhy]" style="width: 49%;">
-</div>
+<p align="center">
+  <a href="https://github.com/preakhy">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preakhy&theme=aura"
+    />
+  <a href="https://github.com/preakhy">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preakhy&theme=aura"
+    />
+</p>
+
+<p align="center">
+  <a href="https://github.com/preakhy">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=preakhy&theme=aura"
+    />
+  <a href="https://github.com/preakhy">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preakhy&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/preakhy">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preakhy&theme=aura"
+    />
+</p>
 
 <br>
 

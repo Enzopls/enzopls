@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img src="https://github.com/preakhy/preakhy/blob/main/asset/enzo.svg" alt="Animated SVG">
+   <img src="https://github.com/enzopls/enzopls/blob/main/asset/enzo.svg" alt="Animated SVG">
 
 </div>
 
@@ -60,11 +60,11 @@
   
 | **Brand** | **Device** | **OS** |
 |----------|--------------|--------|
-| <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/hp.svg" alt="HP Probook" width="100" height="150"> | HP ProBook | Windows 11 |
-| <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/meta-quest-1.svg" alt="Meta Quest" width="100" height="150"> | Meta Quest 2 | Oculus OS (Android 11) |
-| <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/IOS.svg" alt="iPhone" width="100" height="150"> | iPhone 12 | iOS 18 |
-| <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/Samsung_Galaxy_logo.svg" alt="Samsung Galaxy" width="100" height="150"> | Samsung Galaxy A12 | Android 12 (rooté) |
-| <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/raspberrypi.svg" alt="Raspberry Pi" width="100" height="150"> | Raspberry Pi 3B | Raspberry Pi OS |
+| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/hp.svg" alt="HP Probook" width="100" height="150"> | HP ProBook | Windows 11 |
+| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/meta-quest-1.svg" alt="Meta Quest" width="100" height="150"> | Meta Quest 2 | Oculus OS (Android 11) |
+| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/IOS.svg" alt="iPhone" width="100" height="150"> | iPhone 12 | iOS 18 |
+| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/Samsung_Galaxy_logo.svg" alt="Samsung Galaxy" width="100" height="150"> | Samsung Galaxy A12 | Android 12 (rooté) |
+| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/raspberrypi.svg" alt="Raspberry Pi" width="100" height="150"> | Raspberry Pi 3B | Raspberry Pi OS |
 
 *And some VM with different OS/distrib*
 
@@ -72,49 +72,49 @@
 
 <br>
 
-## <img src="https://github.com/preakhy/preakhy/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
+## <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
 
 <br>
 
 <div align="center">
 
-[![Preakhy profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/preakhy)
+[![Enzopls profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/enzopls)
 
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/preakhy">
+  <a href="https://github.com/enzopls">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preakhy&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enzopls&theme=aura"
     />
-  <a href="https://github.com/preakhy">
+  <a href="https://github.com/enzopls">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preakhy&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/preakhy">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=preakhy&theme=aura"
-    />
-  <a href="https://github.com/preakhy">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preakhy&theme=aura&utcOffset=8"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzopls&theme=aura"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/preakhy">
+  <a href="https://github.com/enzopls">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preakhy&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enzopls&theme=aura"
+    />
+  <a href="https://github.com/enzopls">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enzopls&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/enzopls">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzopls&theme=aura"
     />
 </p>
 
@@ -135,6 +135,6 @@
 ---
 <div align="center">
   
-[![⬆️ Back to Top](https://github.com/preakhy/preakhy/blob/main/asset/gototop.svg)](#top)
+[![⬆️ Back to Top](https://github.com/enzopls/enzopls/blob/main/asset/gototop.svg)](#top)
 
 </div>

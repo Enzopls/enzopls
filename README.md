@@ -6,15 +6,12 @@
 
 ### Table of Contents
 
-1. [🎓 About Me](#-about-me)
-2. [Skills](#-skills)
-3. [🛠️ Technology and tools that I use](#%EF%B8%8F-technology-and-tools-that-i-use-%EF%B8%8F)
-4. [Current Devices](#current-devices)
-   - [My current device](#my-current-device)
-5. [GitHub Stats](#github-stats)
-   - [Github Stats](#github-stats-section)
-6. [Now Playing](#now-playing)
-   - [Now Playing 🎧](#now-playing-section)
+- [<code>🎓 About Me</code>](#-about-me)
+- [<code>🛠️ Technology and tools that I use</code>](%EF%B8%8F-technology-and-tools-that-i-use)
+- [<code>💪 Skills</code>](#-skills)
+- [<code>💻 My current device</code>](#-my-current-device-)
+- [<code>📊 Github Stats</code>](#github-stats)
+- [<code>🎶 Now Playing</code>](##now-playing-)
   
 <br>
 
@@ -41,7 +38,7 @@
 
 <br>
 
-## 🛠️ Technology and tools that I use 🛠️
+## 🛠️ Technology and tools that I use 
 
 <br>
 
@@ -55,7 +52,7 @@
 
 <br>
 
-## My current device :
+## 💻 My current device :
 
 <br>
 

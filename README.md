@@ -52,26 +52,6 @@
 
 <br>
 
-## 💻 My current device :
-
-<br>
-
-<div align="center">
-  
-| **Brand** | **Device** | **OS** |
-|----------|--------------|--------|
-| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/hp.svg" alt="HP Probook" width="100" height="150"> | HP ProBook | Windows 11 |
-| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/meta-quest-1.svg" alt="Meta Quest" width="100" height="150"> | Meta Quest 2 | Oculus OS (Android 11) |
-| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/IOS.svg" alt="iPhone" width="100" height="150"> | iPhone 12 | iOS 18 |
-| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/Samsung_Galaxy_logo.svg" alt="Samsung Galaxy" width="100" height="150"> | Samsung Galaxy A12 | Android 12 (rooté) |
-| <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/raspberrypi.svg" alt="Raspberry Pi" width="100" height="150"> | Raspberry Pi 3B | Raspberry Pi OS |
-
-*And some VM with different OS/distrib*
-
-</div>
-
-<br>
-
 ## <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
 
 <br>

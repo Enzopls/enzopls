@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img src="https://github.com/enzopls/enzopls/blob/main/asset/enzo.svg" alt="Animated SVG">
+   <img src="https://github.com/enzogtb/enzogtb/blob/main/asset/enzo.svg" alt="Animated SVG">
 
 </div>
 
@@ -52,49 +52,49 @@
 
 <br>
 
-## <img src="https://github.com/enzopls/enzopls/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
+## <img src="https://github.com/enzogtb/enzogtb/blob/main/asset/logo/iY8CRBdQXODJSCERIr.gif" width="35">&nbsp;**Github Stats**
 
 <br>
 
 <div align="center">
 
-[![Enzopls profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/enzopls)
+[![Enzogtb's profile views](https://u8views.com/api/v1/github/profiles/123584533/views/day-week-month-total-count.svg)](https://u8views.com/github/enzogtb)
 
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/enzopls">
+  <a href="https://github.com/enzogtb">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enzopls&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enzogtb&theme=aura"
     />
-  <a href="https://github.com/enzopls">
+  <a href="https://github.com/enzogtb">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzopls&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/enzopls">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enzopls&theme=aura"
-    />
-  <a href="https://github.com/enzopls">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enzopls&theme=aura&utcOffset=8"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzogtb&theme=aura"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/enzopls">
+  <a href="https://github.com/enzogtb">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzopls&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enzogtb&theme=aura"
+    />
+  <a href="https://github.com/enzopgtb">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enzogtb&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/enzogtb">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzogtb&theme=aura"
     />
 </p>
 
@@ -115,6 +115,6 @@
 ---
 <div align="center">
   
-[![⬆️ Back to Top](https://github.com/enzopls/enzopls/blob/main/asset/gototop.svg)](#top)
+[![⬆️ Back to Top](https://github.com/enzogtb/enzogtb/blob/main/asset/gototop.svg)](#top)
 
 </div>

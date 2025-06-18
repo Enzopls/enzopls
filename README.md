@@ -25,6 +25,7 @@
   <li style="margin-bottom: 30px;">👯 I'm open to collaboration on interesting projects</li>
   <li style="margin-bottom: 30px;">⚡ I love informatics, reverse engineering, and am always curious!</li>
   <li style="margin-bottom: 30px;">🆓 I use as many open source tools as possible</li>
+  <li style="margin-bottom: 30px;">🍎 I'm trying to learn a lot of thing outside of my field (network) like : IOS dev, reverse engineering, coding in some languages, cybersecurity/li>
 </ul>
 
 <br>

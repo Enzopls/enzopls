@@ -100,18 +100,6 @@
 
 <br>
 
-## Now Playing 🎧
-
-<br>
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&cover_image=false&theme=default&show_offline=false&background_color=080808&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i59vhe9ryuluce0pcq61vopgd&redirect=true)
-
-</div>
-
-<br>
-
 ---
 <div align="center">
   

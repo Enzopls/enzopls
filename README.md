@@ -29,13 +29,6 @@
   <li style="margin-bottom: 30px;">🆓 I use as many open source tools as possible</li>
 </ul>
 
-  </div>
-</div>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; **Skills**
-
 <br>
 
 ## 🛠️ Technology and tools that I use 
@@ -49,6 +42,10 @@
 | <table><tr><td>[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)</td><td>[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</td></tr><tr><td>[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)</td><td>[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)</td></tr></table> | <table><tr><td>[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)</td><td>[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)</td></tr><tr><td>[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)</td><td>[![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org)</td></tr></table> | <table><tr><td>[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)</td><td>[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)</td></tr><tr><td>[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)</td><td>[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)</td></tr></table> |
 
 </div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; **Skills**
 
 <br>
 

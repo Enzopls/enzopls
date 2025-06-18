@@ -15,10 +15,6 @@
     .slide-in {
       animation: slideIn 3s ease-in-out forwards;
     }
-    .slide-in-late {
-      animation: slideIn 3s ease-in-out forwards;
-      animation-delay: 1s;
-    }
     @keyframes slideIn {
       from { transform: translateX(-100%); opacity: 0; }
       to { transform: translateX(0); opacity: 1; }

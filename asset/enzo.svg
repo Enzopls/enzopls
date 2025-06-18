@@ -12,14 +12,7 @@
   <style>
     .header { fill: url(#grad1); font-size: 45px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
     .subheader { fill: url(#grad2); font-size: 35px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
-    .slide-in {
-      animation: slideIn 3s ease-in-out forwards;
-    }
-    @keyframes slideIn {
-      from { transform: translateX(-100%); opacity: 0; }
-      to { transform: translateX(0); opacity: 1; }
-    }
   </style>
-  <text x="50%" y="45" class="header slide-in">Hello, I'm Enzo</text>
-  <text x="50%" y="95" class="subheader slide-in-late">Informatics Network Student</text>
+  <text x="50%" y="45" class="header">Hello, I'm Enzo</text>
+  <text x="50%" y="95" class="subheader">Informatics Network Student</text>
 </svg>

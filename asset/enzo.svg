@@ -10,8 +10,8 @@
     </linearGradient>
   </defs>
   <style>
-    .header { fill: url(#grad1); font-size: 45px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
-    .subheader { fill: url(#grad2); font-size: 35px; font-family: Arial, sans-serif; opacity: 0; text-anchor: middle; }
+    .header { fill: url(#grad1); font-size: 45px; font-family: Arial, sans-serif; text-anchor: middle; }
+    .subheader { fill: url(#grad2); font-size: 35px; font-family: Arial, sans-serif; text-anchor: middle; }
   </style>
   <text x="50%" y="45" class="header">Hello, I'm Enzo</text>
   <text x="50%" y="95" class="subheader">Informatics Network Student</text>

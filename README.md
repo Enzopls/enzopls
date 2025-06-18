@@ -9,9 +9,7 @@
 - [<code>🎓 About Me</code>](#-about-me)
 - [<code>🛠️ Technology and tools that I use</code>](%EF%B8%8F-technology-and-tools-that-i-use)
 - [<code>💪 Skills</code>](#-skills)
-- [<code>💻 My current device</code>](#-my-current-device-)
 - [<code>📊 Github Stats</code>](#github-stats)
-- [<code>🎶 Now Playing</code>](##now-playing-)
   
 <br>
 
